@@ -173,20 +173,20 @@ highlights:
       #   link: https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html
 
   - header: Linux驱动开发
-    description: 对Linux驱动开发学习过程进行记录
+    description: 使用RK3588学习Linux驱动开发，对Linux驱动开发学习过程进行记录
     image: /image/Linux-Kernel.png
     bgImage: 
     bgImageDark: 
     highlights:
-      - title: 深色模式
+      - title: 开发环境搭建
         icon: circle-half-stroke
-        details: 可以自由切换浅色模式与深色模式
-        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
+        details: 介绍了RK3588的开发环境和开发软件
+        link: ./RK3588/1.开发环境搭建/1.开发板介绍.md
 
-      - title: 主题色切换
+      - title: SDK
         icon: palette
-        details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
-        link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
+        details: 介绍了RK3588的SDK以及SDK的一些基本操作
+        link: ./RK3588/2.SDK/1.SDK介绍.md
 
       - title: 更多
         icon: ellipsis
