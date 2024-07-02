@@ -3,21 +3,24 @@ home: true
 icon: home
 title: 主页
 heroImage: https://github.com/KB-talk/picx-images-hosting/raw/master/img/logo.1p5rqa10pxsw.webp
-bgImage: https://github.com/KB-talk/picx-images-hosting/raw/master/img/illust_108648787_20231020_090451.7k9f36ok6hs0.webp
-bgImageDark: https://github.com/KB-talk/picx-images-hosting/raw/master/img/illust_111962612_20231127_101019.564vwdpr1s3k.webp
+bgImage: https://github.com/KB-talk/picx-images-hosting/raw/master/picture/D4.1xm4es90r1c0.webp
+bgImageDark: https://github.com/KB-talk/picx-images-hosting/raw/master/picture/D1.1kz7vl8z6xb4.png
 bgImageStyle:
   background-attachment: fixed
 heroFullScreen: true
 heroText: 资料库
 tagline: 使用资料库中记录学习、实验的过程，进行沉淀。方便后续查找。
 actions:
-  - text: 开始
+  - text: 博客
     icon: lightbulb
-    link: ./STM32/1.开发环境搭建/1.开发板介绍.md
+    link: https://kb-talk.github.io/
     type: primary
 
-  - text: 博客
-    link: https://kb-talk.github.io/
+  - text: STM32
+    link: ./STM32F103ZET6/1.开发环境搭建/1.开发板介绍.md
+
+  - text: Linux
+    link: ./RK3588/1.开发环境搭建/1.开发板介绍.md
 
 highlights:
   # - header: 易于安装

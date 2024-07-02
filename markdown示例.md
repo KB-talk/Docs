@@ -104,7 +104,7 @@ $$
 
 - [查看详情](https://theme-hope.vuejs.press/zh/guide/markdown/grammar/sup-sub.html)
 
-#### 组件
+#### 组件图块链接
 
 ```component VPCard
 title: Mr.Hope
