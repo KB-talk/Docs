@@ -33,7 +33,7 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/Linux/encrypt.html": ["1234"],
     },
   },
 
