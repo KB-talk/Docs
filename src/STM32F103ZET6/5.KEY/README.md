@@ -1,5 +1,5 @@
 ---
-title: 5、独立按键
+title: 5.独立按键
 index: false
 icon: laptop-code
 category:

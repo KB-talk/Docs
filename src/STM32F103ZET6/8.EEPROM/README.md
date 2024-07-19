@@ -1,5 +1,5 @@
 ---
-title: 8、EEPROM存储
+title: 8.EEPROM存储
 index: false
 icon: laptop-code
 category:

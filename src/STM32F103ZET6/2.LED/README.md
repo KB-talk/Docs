@@ -1,5 +1,5 @@
 ---
-title: 2、点亮LED
+title: 2.点亮LED
 index: false
 icon: laptop-code
 category:

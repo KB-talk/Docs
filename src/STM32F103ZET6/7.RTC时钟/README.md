@@ -1,5 +1,5 @@
 ---
-title: 7、RTC时钟
+title: 7.RTC时钟
 index: false
 icon: laptop-code
 category:

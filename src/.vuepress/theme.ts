@@ -33,7 +33,7 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/Linux/encrypt.html": ["1234"],
+      "/RK3588/2.SDK/": ["1234"],
     },
   },
 

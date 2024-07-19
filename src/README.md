@@ -175,7 +175,7 @@ highlights:
       #   details: 通过 Reveal.js 在 Markdown 中插入幻灯片
       #   link: https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html
 
-  - header: Linux驱动开发
+  - header: RK3588学习笔记
     description: 使用RK3588学习Linux驱动开发，对Linux驱动开发学习过程进行记录
     image: /image/Linux-Kernel.png
     bgImage: 
@@ -191,41 +191,41 @@ highlights:
         details: 介绍了RK3588的SDK以及SDK的一些基本操作
         link: ./RK3588/2.SDK/1.SDK介绍.md
 
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+      # - title: 更多
+      #   icon: ellipsis
+      #   details: RTL 布局，打印支持，全局按钮等
+      #   link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
-  - header: Linux软件开发
-    description: 对Linux软件开发学习过程进行记录
-    image: /image/Linux-Kernel.png
-    bgImage: 
-    bgImageDark: 
-    highlights:
-      - title: 导航栏
-        icon: window-maximize
-        details: 完全可定制的导航栏以及改进的移动端外观
-        link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
+  # - header: Linux软件开发
+  #   description: 对Linux软件开发学习过程进行记录
+  #   image: /image/Linux-Kernel.png
+  #   bgImage: 
+  #   bgImageDark: 
+  #   highlights:
+  #     - title: 导航栏
+  #       icon: window-maximize
+  #       details: 完全可定制的导航栏以及改进的移动端外观
+  #       link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
 
-      - title: 侧边栏
-        icon: fas fa-window-maximize fa-rotate-270
-        details: 从文档标题或文件结构中自动生成侧边栏
-        link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
+  #     - title: 侧边栏
+  #       icon: fas fa-window-maximize fa-rotate-270
+  #       details: 从文档标题或文件结构中自动生成侧边栏
+  #       link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
 
-      - title: 幻灯片页面
-        icon: person-chalkboard
-        details: 添加幻灯片页面以显示你喜欢的内容
-        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
+  #     - title: 幻灯片页面
+  #       icon: person-chalkboard
+  #       details: 添加幻灯片页面以显示你喜欢的内容
+  #       link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
 
-      - title: 布局增强
-        icon: object-group
-        details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
+  #     - title: 布局增强
+  #       icon: object-group
+  #       details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
+  #       link: https://theme-hope.vuejs.press/zh/guide/layout/
 
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
+  #     - title: 更多
+  #       icon: ellipsis
+  #       details: RTL 布局，打印支持，全局按钮等
+  #       link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
 
   # - header: 新功能
   #   image: /assets/image/features.svg

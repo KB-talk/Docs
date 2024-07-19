@@ -1,5 +1,5 @@
 ---
-title: 10、2.4G无线通信
+title: 10.NRF24L01
 index: false
 icon: laptop-code
 category:

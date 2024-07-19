@@ -1,5 +1,5 @@
 ---
-title: 4、串口通信
+title: 4.串口通信
 index: false
 icon: laptop-code
 category:
