@@ -52,53 +52,53 @@ highlights:
 
       - title: 蜂鸣器
         icon: bell
-        details: GFM 风格的警告容器
+        details: 控制蜂鸣器
         link: ./STM32F103ZET6/3.蜂鸣器/1.硬件设计.md
 
       - title: 串口通信
         icon: table-columns
-        details: 使用选项卡对相似内容进行分组
+        details: 配置串口通信
         link: ./STM32F103ZET6/4.串口/1.硬件设计.md
 
       - title: 独立按键
         icon: code
-        details: 使用选项卡对相似代码进行分组
+        details: 判断独立按键是否按下
         link: ./STM32F103ZET6/5.KEY/1.硬件设计.md
 
       - title: OLED显示
         icon: align-center
-        details: Markdown 中对内容进行自定义对齐
+        details: 使用OLED显示字符
         link: ./STM32F103ZET6/6.OLED/1.硬件设计.md
 
       - title: RTC时钟
         icon: code
-        details: 为 Markdown 元素添加属性
+        details: 配置使用RTC时钟
         link: ./STM32F103ZET6/7.RTC时钟/1.硬件设计.md
 
       - title: EEPROM存储
         icon: superscript
-        details: 轻松在 Markdown 中添加上下角标
+        details: 使用EEPROM存储数据
         link: ./STM32F103ZET6/8.EEPROM/1.硬件设计.md
 
       - title: 触摸屏显示
         icon: quote-left
-        details: 在内容中插入脚注
+        details: 使用LCD触摸屏
         link: ./STM32F103ZET6/9.TFTLCD/1.硬件设计.md
 
       - title: 2.4G通信
         icon: highlighter
-        details: 标记并高亮内容
+        details: 使用NRF24L01通信模块
         link: ./STM32F103ZET6/10.NRF24L01/1.硬件设计.md
 
-      # - title: 剧透
-      #   icon: eraser
-      #   details: 添加剧透标记支持
-      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/spoiler.html
-
-      # - title: 任务列表
-      #   icon: square-check
-      #   details: 轻松插入任务列表
-      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tasklist.html
+      - title: RC522
+        icon: eraser
+        details: 使用RC522 IC卡模块
+        link: ./STM32F103ZET6/11.RC522/1.硬件设计.md
+ 
+      - title: ADC
+        icon: square-check
+        details: 使用ADC功能读取电压值
+        link: ./STM32F103ZET6/12.ADC/1.硬件设计.md
 
       # - title: 图片语法
       #   icon: image

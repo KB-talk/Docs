@@ -91,34 +91,6 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
-    {
-      text: "高级密码锁",
-      icon: "laptop-code",
-      prefix: "培训题目/题目1/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "电子时钟",
-      icon: "laptop-code",
-      prefix: "培训题目/题目2/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "亮度可调的LED",
-      icon: "laptop-code",
-      prefix: "培训题目/题目3/",
-      collapsible: true,
-      children: "structure",
-    },
-    {
-      text: "智能考勤系统",
-      icon: "laptop-code",
-      prefix: "培训题目/题目4/",
-      collapsible: true,
-      children: "structure",
-    },
   ],
   "/RK3588/": 
   [
