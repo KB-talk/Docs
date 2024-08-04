@@ -108,5 +108,12 @@ export default sidebar({
       collapsible: true,
       children: "structure",
     },
+    {
+      text: "Qt",
+      icon: "laptop-code",
+      prefix: "6.Qt/",
+      collapsible: true,
+      children: "structure",
+    },
   ],
 });
