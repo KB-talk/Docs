@@ -1,5 +1,5 @@
 ---
-title: RK3588 Linux SDK 软件包
+title: Qt开发
 index: false
 icon: laptop-code
 order: 2
