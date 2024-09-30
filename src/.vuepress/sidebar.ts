@@ -109,6 +109,20 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "驱动开发",
+      icon: "laptop-code",
+      prefix: "3.驱动开发/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
+      text: "应用开发",
+      icon: "laptop-code",
+      prefix: "4.应用开发/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "Qt",
       icon: "laptop-code",
       prefix: "5.Qt/",
